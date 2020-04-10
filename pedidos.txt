@@ -1,0 +1,2 @@
+2#Realizado#2#Pagamento via Boleto#ClientePF#elielton#rua santa#elielton@gmail.com#111#1#1#1#11.0#1#11#
+30#Realizado#5#Pagamento via Boleto#ClientePF#elielton#rua santa luzia#elieltonpb1@gmail.com#777#2#5#5#5.0#5#5#1#5#5#5.0#5#5#
